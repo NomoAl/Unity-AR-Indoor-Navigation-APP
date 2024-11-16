@@ -8,5 +8,4 @@ are sent.
 
 4.Build and Run the completed work at Unity and download it to the mobile phone.
 
-5.Run the App at mobile. In this part, i will show both the simulation result at Unity and real
-App test result.
+5.Run the Localisation and Navigation App at mobile phone. 
