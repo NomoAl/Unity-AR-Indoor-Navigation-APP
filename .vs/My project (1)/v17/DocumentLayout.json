@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|F:\\My project (1)\\assets\\mobileartemplateassets\\ui\\scripts\\destinationchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\ui\\scripts\\destinationchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|f:\\my project (1)\\assets\\jsonfetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\jsonfetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|F:\\My project (1)\\assets\\mobileartemplateassets\\ui\\scripts\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\ui\\scripts\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|F:\\My project (1)\\assets\\mobileartemplateassets\\ui\\scripts\\destinationsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\ui\\scripts\\destinationsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|F:\\My project (1)\\assets\\mobileartemplateassets\\ui\\scripts\\2dmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\ui\\scripts\\2dmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonFetcher.cs",
+              "DocumentMoniker": "F:\\My project (1)\\Assets\\JsonFetcher.cs",
+              "RelativeDocumentMoniker": "Assets\\JsonFetcher.cs",
+              "ToolTip": "F:\\My project (1)\\Assets\\JsonFetcher.cs",
+              "RelativeToolTip": "Assets\\JsonFetcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T05:41:07.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exit.cs",
+              "DocumentMoniker": "F:\\My project (1)\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\Exit.cs",
+              "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\Exit.cs",
+              "ToolTip": "F:\\My project (1)\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\Exit.cs",
+              "RelativeToolTip": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\Exit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:02:07.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "2DMap.cs",
+              "DocumentMoniker": "F:\\My project (1)\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\2DMap.cs",
+              "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\2DMap.cs",
+              "ToolTip": "F:\\My project (1)\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\2DMap.cs",
+              "RelativeToolTip": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\2DMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:59:14.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DestinationChoice.cs",
+              "DocumentMoniker": "F:\\My project (1)\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\DestinationChoice.cs",
+              "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\DestinationChoice.cs",
+              "ToolTip": "F:\\My project (1)\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\DestinationChoice.cs",
+              "RelativeToolTip": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\DestinationChoice.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:58:12.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DestinationSearch.cs",
+              "DocumentMoniker": "F:\\My project (1)\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\DestinationSearch.cs",
+              "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\DestinationSearch.cs",
+              "ToolTip": "F:\\My project (1)\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\DestinationSearch.cs",
+              "RelativeToolTip": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\DestinationSearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:34:08.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
